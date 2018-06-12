@@ -1,5 +1,7 @@
 # Zucchini
 
+**Moved to https://gitlab.com/lxmx-tech/zucchini**
+
 [![Build Status](https://api.travis-ci.org/zucchini-src/zucchini.png)](http://travis-ci.org/zucchini-src/zucchini)
 [![Coverage Status](https://coveralls.io/repos/zucchini-src/zucchini/badge.png)](https://coveralls.io/r/zucchini-src/zucchini)
 [![Gem Version](https://badge.fury.io/rb/zucchini-ios.png)](http://badge.fury.io/rb/zucchini-ios)
